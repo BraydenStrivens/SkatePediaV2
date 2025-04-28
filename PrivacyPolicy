@@ -1,0 +1,6 @@
+This app collects user emails, usernames, photos, videos, and messages. 
+The emails are used for login and authentication.
+The usernames are set by the user and displayed to other users.
+The videos are from user made posts of their skateboarding.
+The photos, videos, and messages are from direct messages made between users.
+None of this data is sold or used by third parties and it only used for the functionality of the app
